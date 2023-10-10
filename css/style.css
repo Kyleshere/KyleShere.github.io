@@ -1,7 +1,3 @@
-body
-p {
-  color: blue;
-  text-align: left;
-  font-size:32px;
-  font-sytle: italic;
+body {
+  background-color: blue;
 } 
